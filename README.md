@@ -5,7 +5,7 @@ Program1 adds extra functionality to the best_class() function without changing 
 Here is the code for the Program1:
 
 <code> 
-    
+
     def my_decorator(func):
         def wrapper():
             print("I love Animals!")
@@ -18,6 +18,7 @@ Here is the code for the Program1:
             print("I love Software Engineering!")
 
         best_class() 
+        
 </code>
 
 ### Image
